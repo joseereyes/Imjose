@@ -4,7 +4,16 @@
 
 📝📝 I love clean code. 📝📝
 
-<img src="https://github-readme-stats.vercel.app/api?username=joseereyes&show_icons=true&theme=tokyonight"/>
+# I have worked with:
+| <img src="https://github-readme-stats.vercel.app/api?username=joseereyes&show_icons=true&theme=tokyonight"/>  |  <img with="" height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseereyes&layout=compact"/>  |
+|---|---|
+
+
+
+
+
+
+
 
 # I have worked with: 
 
