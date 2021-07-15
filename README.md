@@ -10,7 +10,7 @@
 
 # I have worked with: 
 
-| <img src="https://cdn.discordapp.com/attachments/741804505191940166/862004098407858186/unknown.png" />  |
-|---|
+| <img src="https://cdn.discordapp.com/attachments/741804505191940166/862004098407858186/unknown.png" />  | <img src="https://cdn.discordapp.com/attachments/864586391333371908/865255700439760896/svgxmlbase64PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAy.png" />  |
+|---|---|
 
 
