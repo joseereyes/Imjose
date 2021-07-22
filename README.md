@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jose
 
-👷👷 I'm a junior developer interested in working with NodeJS. 👷👷
+👷👷 I'm a junior developer interested in working with Node.JS. 👷👷
 
 📝📝 I love clean code. 📝📝
 
