@@ -10,6 +10,6 @@
 
 # I have worked with: 
 
-| <img src="https://cdn.discordapp.com/attachments/741804505191940166/862004098407858186/unknown.png" />  | <img width="250" height="117" src="https://hackernoon.com/hn-images/1*HSisLuifMO6KbLfPOKtLow.jpeg" />  |
+| <img src="https://cdn.discordapp.com/attachments/741804505191940166/862004098407858186/unknown.png" />  | <img width="270" height="117" src="https://hackernoon.com/hn-images/1*HSisLuifMO6KbLfPOKtLow.jpeg" />  |
 |---|---|
 
