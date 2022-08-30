@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jose
 
-👷👷 I'm a junior developer.👷👷
+👷👷 I'm a Mid-level developer.👷👷
 
 📝📝 I love clean code. 📝📝
 
